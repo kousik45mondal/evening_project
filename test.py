@@ -1,1 +1,1 @@
-print("what's up buddy i am kousik mondal")
+prin("what's up buddy i am kousik mondal"
